@@ -128,7 +128,6 @@ img {
 }
 .contacts{
     display: block;
-    margin-bottom: 9px;
 }
 
 .contacts:hover,
@@ -139,6 +138,10 @@ img {
 
 .footer-adress{
     color: var(--main-color);
+}
+
+.adress-item:not(:last-child){
+    margin-bottom: 9px;
 }
 
 .order{
