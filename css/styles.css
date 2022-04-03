@@ -391,6 +391,7 @@ img {
  .active-link{
     color: var(--button-color);
     padding-bottom: 0;
+    display: block;
  }
 
 .active-link::after{
