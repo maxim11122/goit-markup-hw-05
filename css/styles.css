@@ -562,7 +562,7 @@ img {
     overflow: hidden;
 }
 
-.example:hover .portfolii-image-container{
+.example-link:hover .portfolii-image-container{
     transform: translateY(0);
     transition: var(--animation);
 }
