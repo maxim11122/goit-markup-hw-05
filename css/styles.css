@@ -474,7 +474,9 @@ img {
 
 .portfolio-nav-button{
     padding: 6px 22px;
-    transition: box-shadow var(--animation) 0s;
+    transition: color var(--animation) 0s, 
+                background-color var(--animation) 0s, 
+                box-shadow var(--animation) 0s;
 }
 
 .portfolio-nav-button:hover,
